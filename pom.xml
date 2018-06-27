@@ -44,7 +44,7 @@
                     <executable>java</executable>
                     <arguments>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.lightbend.akka.sample.AkkaQuickstart</argument>
                     </arguments>
                 </configuration>
